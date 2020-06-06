@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin-left: 40%;
+  margin-top:5%;
+}
+tr{
+ 
+}
+table, th, td {
+
+  border: 1px solid black;
+}
+table{
+  table-layout: fixed;
+  height: 400px ;
+  width: 400px;
+}
+
+.tik{
+  width: 367px;
+  margin-right: 56%;
+}
+
+.sign{
+  width: 100px;
+}
